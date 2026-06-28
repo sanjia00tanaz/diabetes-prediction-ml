@@ -1,6 +1,4 @@
- diabetes-prediction-ml
-Machine learning model to predict diabetes using patient health data
-Diabetes Prediction using Machine Learning
+
 ### A Healthcare AI Research Project
 
 Project Overview
